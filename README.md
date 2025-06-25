@@ -14,9 +14,9 @@
 - **Языки**: Java ☕
 - **Фреймворки**: Spring
 - **Базы данных**: PostgreSQL
-- **Инструменты**: Maven, Git, Flyway, Postman, IntelliJ IDEA
+- **Инструменты**: Maven, Git, Flyway, Postman, IntelliJ IDEA, Docker
 - **Веб-разработка**: HTML, CSS, JavaScript, JSX
-- **Дополнительно**: REST API, Hibernate, Lombok, JWT, JSON
+- **Дополнительно**: REST API, Hibernate, Lombok, JWT, JSON, Linux\Unix
 
 ---
 
